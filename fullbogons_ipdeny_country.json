@@ -1,0 +1,26 @@
+[
+	{
+		"code": "BR",
+		"value": 1024
+	},
+	{
+		"code": "CL",
+		"value": 1024
+	},
+	{
+		"code": "CO",
+		"value": 1024
+	},
+	{
+		"code": "DO",
+		"value": 1024
+	},
+	{
+		"code": "MU",
+		"value": 2048
+	},
+	{
+		"code": "PY",
+		"value": 1024
+	}
+]

@@ -1,0 +1,22 @@
+{
+	"ipset": "yoyo_adservers",
+	"started": 1438820530000,
+	"updated": 1588331284000,
+	"incomplete": 1,
+	"past": {
+		"hours": [ 
+			0,
+			5946 ],
+		"ips": [ 
+			189,
+			1 ],
+		"total": 190
+	},
+	"current": {
+		"hours": [ 
+			41531 ],
+		"ips": [ 
+			10795 ],
+		"total": 10795
+	}
+}
